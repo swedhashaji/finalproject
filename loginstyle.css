@@ -1,0 +1,29 @@
+body
+{
+  background-image: url('images/notre-dame-basilica-montreal-GettyImages-462576645.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+}
+.p{
+  background-color: rgba(0, 0, 0, 0.4);
+  height:100%;
+  width: 100%;
+  padding-bottom: 185px;
+  background-size: 50%;
+    
+
+}
+a{
+  text-decoration: none;
+  color: red;
+  height:200px;
+ font-size:14pt;
+}
+.fname{
+width: 20vw;
+}
+
+img{
+background-image: "notre-dame-basilica-montreal-GettyImages-462576645.jpg";
+}
